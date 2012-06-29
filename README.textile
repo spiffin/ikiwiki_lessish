@@ -10,8 +10,8 @@ Features:
 * large readable font (tweak if too large for you), 
 * works well on a range of devices (desktops, mobiles, tablets, etc.).
 
-"PNG preview":https://github.com/spiffin/ikiwiki_lessish/blob/master/lessish_preview.png
+"PNG PREVIEW":https://github.com/spiffin/ikiwiki_lessish/blob/master/lessish_preview.png
 
-"Download"https://raw.github.com/spiffin/ikiwiki_lessish/master/lessish.css
+"DOWNLOAD":https://raw.github.com/spiffin/ikiwiki_lessish/master/lessish.css
 
 Version 0.1 - 29 June 2012 
