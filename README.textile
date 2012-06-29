@@ -1,0 +1,17 @@
+h1. ikiwiki_lessish
+
+A responsive stylesheet for "ikiwiki":http://ikiwiki.info/ based on the "Less CSS Framework":http://lessframework.com.
+
+Developed quickly for my own use - please feel free to tweak and re-use.
+
+Features: 
+
+* fully responsive (resize your browser), 
+* large readable font (tweak if too large for you), 
+* works well on a range of devices (desktops, mobiles, tablets, etc.).
+
+PDF preview
+
+Download
+
+Version 0.1 - 29 June 2012 
